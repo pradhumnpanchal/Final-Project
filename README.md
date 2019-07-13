@@ -1,4 +1,4 @@
-## Final-Project
+# Final-Project
 ## Problem Statement 
  
 Your client is a retail banking institution. Term deposits are a major source of income for a bank.  
