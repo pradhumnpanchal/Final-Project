@@ -28,7 +28,7 @@ You are provided with following files:
 The Evaluation metric for this competition is accuracy. 
  
  
-### Solution Checker 
+## Solution Checker 
  
 You can use solution_checker.xlsx to generate score (accuracy) of your predictions.  
  
