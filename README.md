@@ -37,3 +37,4 @@ This is an excel sheet where you are provided with the test IDs and you have to 
 a. Save the predictions on test.csv file in a new csv file.  b. Open the generated csv file, copy the predictions and paste them in the subscribed column of solution_checker.xlsx file. c. Your score will be generated automatically and will be shown in ​Your Accuracy Score​ column 
  
  
+ try on your own
