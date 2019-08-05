@@ -35,6 +35,3 @@ You can use solution_checker.xlsx to generate score (accuracy) of your predictio
 This is an excel sheet where you are provided with the test IDs and you have to submit your predictions in the “subscribed” column. Below are the steps to submit your predictions and generate score: 
  
 a. Save the predictions on test.csv file in a new csv file.  b. Open the generated csv file, copy the predictions and paste them in the subscribed column of solution_checker.xlsx file. c. Your score will be generated automatically and will be shown in ​Your Accuracy Score​ column 
- 
- 
- ## try on your own
