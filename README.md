@@ -23,7 +23,7 @@ You are provided with following files:
 ## How good are your predictions? 
  
  
-### Evaluation Metric 
+#### Evaluation Metric 
  
 The Evaluation metric for this competition is accuracy. 
  
